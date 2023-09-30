@@ -4,6 +4,5 @@
 main()
 {
 printMyName();
-ptintf("");
 return 0;
 }
